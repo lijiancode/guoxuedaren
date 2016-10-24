@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+#content{
+	width:1125px;
+	height:900px;
+	margin:0 auto;
+	background-image:url(../img/back.gif);
+}
+#login{
+	width:200px;
+	height:87px;
+	margin:0 auto;
+	padding-top:357px;
+	padding-left: 90px;
+}
+#rel{
+	width:400px;
+	height:300px;
+	position:absolute;
+	top:260px;
+	left:50%;
+	margin-left:-200px;
+}

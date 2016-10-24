@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.content{
+	width:604px;
+	height:404px;
+	background-color:#B09798;
+	margin:100px auto;
+	border-style:dotted;
+	border-width:2px;
+	border-radius:10px;
+}
+.left{
+	width:300px;
+	height:400px;
+	float:left;
+	margin-left:2px;
+	margin-top:2px;
+}
+.right{
+	width:300px;
+	height:400px;
+	float:left;
+	margin-top:2px;
+	background-image:url(../img/left.jpg);
+}
+#content{
+	height:200px;
+	width:100%;
+}
